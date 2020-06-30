@@ -278,7 +278,7 @@ I want <u>these</u>.
 <u>The unknown</u> is often feared.
 (未知的事物经常令人畏惧。)
 
-如果套用文法规则，那么 the new 和 the unknown 都符合「the + 形容词」的构造，但是都不能解释为复数名词，而应该是单数。为什么？因为从意思上很容易判断出来：这两个名词片语省略掉的部分不再是 people，而是 thing。如果还原回去，分别是 the new thing 和 the unknown thing 这两个名词片语，那么当然是单数而非复数。
+如果套用文法规则，那么 the new 和 the unknown 都符合「the + 形容词」的构造，但是都不能解释为复数名词，而应该是单数。为什么？因为从意思上很容易判断出来：这两个名词片语省略掉的部分不再是 people，而是 thing。如果还原回去，分别是 the new thing 和 the unknown thing 这两个名词片语，那么当然是单数而非复数。  {doubt}
 
 ## 限定词的种类
 
